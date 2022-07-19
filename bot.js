@@ -33,17 +33,17 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.owner = ['6283181106073',''] //owner number +27634090203
+global.wame = ['6283181106073'] 
+global.pemilik = ['62831811060703'] //owner number +27634090203
+global.premium = ['62831811060703'] //premium number +27634090203
 global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
+global.footer = 'XAVIER BOT INC'
+global.botnma = 'XAVIER BOT INC' //bot name
+global.botname = 'XAVIER BOT V4'
 global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.packname = 'XAVIER' //sticker package name
+global.author = 'By XAVIER Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -119,3 +119,4 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+
